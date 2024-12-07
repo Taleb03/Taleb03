@@ -6,7 +6,7 @@
 - 🔭 I’m focusing on building my career in Front-end development and creating amazing responsive websites!
 
 
-## Connect with Me
+## 📫 You can find me at :
 <div align="start">
   <a href="https://www.instagram.com/__t_a_l_e_b__/" target="_blank" style="border-radius:15px">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
