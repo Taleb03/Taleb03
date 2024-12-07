@@ -23,4 +23,4 @@ You can mail me at : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=tale
 - Front-End: HTML5, CSS, GSAP, ScrollTrigger, Lenis.
 - Backend: PHP, Laravel and DJANGO
 
-That's it from me now. Feel free you contact me if you like anything that I am offering!😊
+That's it from me now. Feel free to contact me if you like anything that I am offering!😊
