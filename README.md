@@ -6,7 +6,8 @@
 - 🔭 I’m focusing on building my career in Front-end development and creating amazing responsive websites!
 
 ## 📬 Mailbox
-You can mail me at : <a href="https://mail.google.com/mail/u/0/?fs=1&to=talebshaikh34343434@gmail.com" target="_blank" style="text-decoration:none; color:inherit;">talebshaikh34343434@gmail.com</a>
+You can mail me at : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=talebshaikh34343434@gmail.com" target="_blank" style="text-decoration:none; color:inherit;">talebshaikh34343434@gmail.com</a>
+
 
 
 ## Places You Can Find Me At :
