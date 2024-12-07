@@ -7,5 +7,5 @@
 - 🔭 I’m focusing on building my carrer in Front-end and making an amazing responsive websites!
 
 
-- 📫 Places you will find me:
+📫 Places you will find me:
 - 
