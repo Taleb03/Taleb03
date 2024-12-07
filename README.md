@@ -7,10 +7,12 @@
 
 
 ## 📫 You can find me at :
-<div align="start" style="border-radius:15px">
+<div align="start" >
+  <button style="border-radius:15px">
   <a href="https://www.instagram.com/__t_a_l_e_b__/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  </button>  
   <a href="https://www.linkedin.com/in/taleb-shaikh-2a1b94281/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
