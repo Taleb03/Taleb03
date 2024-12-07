@@ -1,7 +1,7 @@
 ## Hi, I'm Taleb Shaikh 👋
 
 
-**Taleb03/Taleb03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer | Front-End Developer | MCA Student**
 
 Here are some ideas to get you started:
 
