@@ -8,4 +8,4 @@
 
 
 📫 Places you will find me:
-- 
+- https://www.linkedin.com/in/taleb-shaikh-2a1b94281/ 
