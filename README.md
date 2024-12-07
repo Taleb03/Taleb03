@@ -6,7 +6,7 @@
 - 🔭 I’m focusing on building my career in Front-end development and creating amazing responsive websites!
 
 ## 📬 Mailbox
-Feel free to drop me an email at: Taleb Shaikh(mailto:talebshaikh34343434@gmail.com)
+Feel free to drop me an email at: mailto:talebshaikh34343434@gmail.com
 
 ## Places You Can Find Me At
 
