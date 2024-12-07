@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Taleb Shaikh 👋
 
 
 **Taleb03/Taleb03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
