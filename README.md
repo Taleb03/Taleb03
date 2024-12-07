@@ -19,5 +19,5 @@ Feel free to drop me an email at: <a href="mailto:your-email@example.com" style=
 </div>
 
 ## 🔧 Tools & Technologies :
-Front-End: HTML5, CSS, GSAP, ScrollTrigger, Lenis.
-Backend: PHP, Laravel and DJANGO
+- Front-End: HTML5, CSS, GSAP, ScrollTrigger, Lenis.
+- Backend: PHP, Laravel and DJANGO
