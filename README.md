@@ -20,9 +20,7 @@ Ahmedabad, India · Open to on-site roles/internships
 - Backend (basics): Node.js, Express, MongoDB
 - Tools: Git/GitHub, Vite
 
-<!-- If you prefer skill icons, uncomment this line:
 [![Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,html,css,tailwind,nodejs,express,mongodb,git,figma)](https://skillicons.dev)
--->
 
 ## 🤝 What I’m Looking For
 - On-site Frontend Developer/Intern roles in Ahmedabad/Gandhinagar
