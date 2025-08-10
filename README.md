@@ -1,26 +1,31 @@
 # Hi, I'm Taleb Shaikh 👋
 
-**Web Developer | Front-End Developer | MCA Student**
+Frontend Developer (React) · MCA Student @ LJ University  
+Ahmedabad, India · Open to on-site roles/internships
 
-- 🌱 I’m currently learning Front-end frameworks like **React**, **MERN Stack**, etc.
-- 🔭 I’m focusing on building my career in Front-end development and creating amazing responsive websites!
+- 🌱 Currently leveling up in React and learning Next.js + basic Node/Express/MongoDB.
+- 💡 I enjoy building fast, responsive UIs with smooth animations (GSAP/ScrollTrigger/Lenis).
+- 🎯 Goal: Frontend-focused role where I can ship accessible, high‑performance web apps.
 
-## 📬 Mailbox :
-You can mail me at : <a href="https://mail.google.com/mail/?view=cm&fs=1&to=talebshaikh34343434@gmail.com" target="_blank" style="text-decoration:none; color:inherit;">talebshaikh34343434@gmail.com</a>
+## 🔗 Links
+- 🌐 Portfolio: https://taleb-shaikh.netlify.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/taleb-shaikh-2a1b94281/
+- 📬 Email: [talebshaikh34343434@gmail.com](mailto:talebshaikh34343434@gmail.com)
+- 📸 Instagram: https://www.instagram.com/__t_a_l_e_b__/
+- 📜 Resume: https://docs.google.com/document/d/1YFpigvbQgKFcGb3x8qIHrVyyY5Z_pQZGmnnnKTDIzVQ/edit?usp=sharing
 
+## 🛠️ Tech I Use
+- Frontend: HTML, CSS, JavaScript, React, GSAP, ScrollTrigger, Lenis
+- Learning: Next.js, TypeScript
+- Backend (basics): Node.js, Express, MongoDB
+- Tools: Git/GitHub, Vite
 
-## 🏠 Places You Can Find Me At :
-<div align="start">
-  <a href="https://www.instagram.com/__t_a_l_e_b__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/taleb-shaikh-2a1b94281/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+<!-- If you prefer skill icons, uncomment this line:
+[![Skills](https://skillicons.dev/icons?i=js,react,nextjs,ts,html,css,tailwind,nodejs,express,mongodb,git,figma)](https://skillicons.dev)
+-->
 
-## 🔧 Tools & Technologies :
-- Front-End: HTML5, CSS, GSAP, ScrollTrigger, Lenis.
-- Backend: PHP, Laravel and DJANGO
+## 🤝 What I’m Looking For
+- On-site Frontend Developer/Intern roles in Ahmedabad/Gandhinagar
+- Teams where I can contribute to React/Next.js UIs and learn from code reviews
 
-That's it from me now. Feel free to contact me if you like anything that I am offering!😊
+Thanks for stopping by! If something here interests you, feel free to reach out. 😊
