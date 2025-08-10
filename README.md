@@ -23,4 +23,4 @@ I'm a front-end developer passionate about building beautiful, responsive user i
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/taleb-shaikh/
 - Email: talebshaikh34343434@gmail.com
-- Resume: https://docs.google.com/document/d/1YFpigvbQgKFcGb3x8qIHrVyyY5Z_pQZGmnnnKTDIzVQ/edit?usp=sharing
+- Resume: (https://docs.google.com/document/d/1YFpigvbQgKFcGb3x8qIHrVyyY5Z_pQZGmnnnKTDIzVQ/edit?usp=sharing)[Resume]
