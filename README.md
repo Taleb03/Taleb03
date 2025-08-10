@@ -24,4 +24,5 @@ I'm a front-end developer passionate about building beautiful, responsive user i
 - ✉️ Email: talebshaikh34343434@gmail.com
 - 📜 Resume: [CV](https://docs.google.com/document/d/1YFpigvbQgKFcGb3x8qIHrVyyY5Z_pQZGmnnnKTDIzVQ/edit?usp=sharing)
 
-
+## 🤝 Let's Work
+Open to collaborating on React-based front‑ends, clean UI/UX, and performance‑focused dashboards — reach out via WhatsApp or email.
